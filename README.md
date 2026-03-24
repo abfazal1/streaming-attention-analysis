@@ -107,3 +107,7 @@ Fields used span streams, views, likes, playlist counts and reach, TikTok posts,
 2. Install dependencies: `pip install pandas numpy matplotlib scikit-learn scipy`
 3. Place the dataset CSV in the `data/` folder
 4. Run the notebook from top to bottom
+
+---
+
+*The music will keep playing — the question is always who gets to be heard.*
