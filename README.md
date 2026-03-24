@@ -1,4 +1,4 @@
-# Attention In Equality Across Music Streaming Platforms & Latent Artist Clusters
+# Attention Inequality Across Music Streaming Platforms & Latent Artist Clusters
 
 ![Lorenz Curves](images/lorenz_combined.png)
 
