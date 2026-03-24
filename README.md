@@ -57,7 +57,7 @@ Seven artist archetypes emerge from K-means clustering (k=7, selected by silhoue
 | C5 | Mainstream Streaming | 342 |
 | C6 | Legacy Streaming | 265 |
 
-*Note: C4 (TikTok Viral) contains only 2 artists but is structurally distinct from C1 (TikTok Natives) — these two artists collectively account for ~5.5% of total TikTok views in a pool of 1,534 artists, an extreme concentration driven by audio circulating as background or meme content rather than conventional music consumption.*
+*Note: C4 (TikTok Viral) contains only 2 artists but is structurally distinct from C1 (TikTok Natives) — these two artists collectively account for ~5.5% of total TikTok views in a pool of 1,534 artists, an extreme concentration possibly driven by audio circulating as background or meme content.*
 
 Each cluster carries a distinct signature across platform dominance, engagement behaviour, and playlist reach — visible in the normalised heatmap above.
 
