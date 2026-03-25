@@ -12,7 +12,7 @@
 
 ## What is the project about?
 
-Attention is scarce. As music consumption has fragmented across Spotify, TikTok, and YouTube, the question of how that attention is allocated — within platforms and across them — has become central to understanding the modern music economy. Each platform operates a distinct discovery mechanism, and the artists who capture attention on one platform do not necessarily capture it on another.
+Attention is scarce. As music consumption has fragmented across Spotify, TikTok, and YouTube, the question of how that attention is allocated — both within and across platforms — has become central to understanding the modern music economy. Each platform operates a distinct discovery mechanism, and the artists who capture attention on one platform do not necessarily capture it on another.
 
 This project asks whether those cross-platform patterns are random or structural: whether the distribution of attention reveals consistent archetypes in how artists exist across the streaming landscape.
 
@@ -31,15 +31,15 @@ The central question:
 
 ### Attention Inequality
 
-Attention is highly concentrated within every platform. Gini coefficients at track level range from 0.53 (Spotify) to 0.78 (TikTok), and converge at the artist level across all three platforms (0.74–0.76) — suggesting superstar concentration is a feature of the music economy rather than any single platform's algorithm.
+Attention is highly concentrated within every platform. Gini coefficients at track level range from 0.53 (Spotify) to 0.78 (TikTok), and converge at the artist level across all three platforms (0.74–0.76), suggesting superstar concentration is a feature of the music economy rather than any single platform's algorithm.
 
-The Lorenz curves above make this structure legible (see above). At track level, platform divergence is visually clear — Spotify's curve bows least far from the equality line while TikTok's hugs the axis longest before rising steeply. At artist level the three curves are nearly indistinguishable.
+The Lorenz curves above make this structure visual. At track level the platform divergence is clear — Spotify's curve bows least far from the equality line, followed by YouTube, then TikTok. At artist level the three curves are nearly indistinguishable.
 
 ### Cross-Platform Positioning
 
 ![Share Correlation](images/share_correlation_scatter.png)
 
-Cross-platform positioning is strongly consistent between Spotify and YouTube (Pearson r = 0.82 on attention share) but largely decoupled from TikTok (r < 0.25 for both TikTok pairings). TikTok operates as a structurally distinct attention economy — streaming dominance is neither a prerequisite nor a reliable outcome of viral success on the platform.
+Cross-platform positioning is strongly consistent between Spotify and YouTube (raw share r = 0.82, log share r = 0.63) but largely decoupled from TikTok (raw r < 0.25 for both TikTok pairings, rising modestly on log shares for Spotify/TikTok but remaining weak). This is consistent with TikTok operating as a structurally distinct attention economy where streaming dominance is neither a prerequisite nor a reliable outcome of viral success on the platform.
 
 ### Artist Archetypes
 
@@ -57,7 +57,7 @@ Seven artist archetypes emerge from K-means clustering (k=7, selected by silhoue
 | C5 | Mainstream Streaming | 342 |
 | C6 | Legacy Streaming | 265 |
 
-*Note: C4 (TikTok Viral) contains only 2 artists but is structurally distinct from C1 (TikTok Natives) — these two artists collectively account for ~5.5% of total TikTok views in a pool of 1,534 artists, an extreme concentration possibly driven by audio circulating as background or meme content.*
+*Note: C4 (TikTok Viral) contains only 2 artists but is structurally distinct from C1 (TikTok Natives). These two artists collectively account for ~5.5% of total TikTok views in a pool of 1,534 artists, an extreme concentration driven by audio circulating as background or meme content rather than conventional music consumption.*
 
 Each cluster carries a distinct signature across platform dominance, engagement behaviour, and playlist reach — visible in the normalised heatmap above.
 
