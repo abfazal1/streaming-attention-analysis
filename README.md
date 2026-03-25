@@ -39,7 +39,7 @@ The Lorenz curves above make this structure visual. At track level the platform 
 
 ![Share Correlation](images/share_correlation_scatter.png)
 
-Cross-platform positioning is strongly consistent between Spotify and YouTube (raw share r = 0.82, log share r = 0.63) but largely decoupled from TikTok (raw r < 0.25 for both TikTok pairings, rising modestly on log shares for Spotify/TikTok but remaining weak). This is consistent with TikTok operating as a structurally distinct attention economy where streaming dominance is neither a prerequisite nor a reliable outcome of viral success on the platform.
+Cross-platform positioning is strongly consistent between Spotify and YouTube (raw share r = 0.82, log share r = 0.63) but largely decoupled from TikTok (raw r < 0.25 for both TikTok pairings, rising modestly on log shares for Spotify/TikTok). This is consistent with TikTok operating as a structurally distinct attention economy where streaming dominance is neither a prerequisite nor a reliable outcome of viral success on the platform.
 
 ### Artist Archetypes
 
