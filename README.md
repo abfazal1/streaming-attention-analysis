@@ -1,6 +1,6 @@
 # Attention Inequality Across Music Streaming Platforms & Latent Artist Clusters
 
-![Lorenz Curves](images/lorenz_combined.png)
+![Intro](images/intro.png)
 
 ## Summary
 
@@ -31,9 +31,11 @@ The central question:
 
 ### Attention Inequality
 
-Attention is highly concentrated within every platform. Gini coefficients at track level range from 0.53 (Spotify) to 0.78 (TikTok), and converge at the artist level across all three platforms (0.74–0.76), suggesting superstar concentration is a feature of the music economy rather than any single platform's algorithm.
+![Lorenz Curves](images/lorenz_combined.png)
 
-The Lorenz curves above make this structure visual. At track level the platform divergence is clear — Spotify's curve bows least far from the equality line, followed by YouTube, then TikTok. At artist level the three curves are nearly indistinguishable.
+Attention is highly concentrated within every platform. The Lorenz curves make this structure visual. At track level the platform divergence is clear — Spotify's curve bows least far from the equality line, followed by YouTube, then TikTok. At artist level the three curves are nearly indistinguishable.
+
+Gini coefficients at track level range from 0.53 (Spotify) to 0.78 (TikTok), and converge at the artist level across all three platforms (0.74–0.76), suggesting superstar concentration is a feature of the music economy rather than any single platform's algorithm.
 
 ### Cross-Platform Positioning
 
