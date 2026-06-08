@@ -12,7 +12,7 @@
 
 ## What is the project about?
 
-Attention is scarce. As music consumption has fragmented across Spotify, TikTok, and YouTube, the question of how that attention is allocated — both within and across platforms — has become central to understanding the modern music economy. Each platform operates a distinct discovery mechanism, and the artists who capture attention on one platform do not necessarily capture it on another.
+Attention is scarce. As music consumption has fragmented across Spotify, TikTok, and YouTube, the question of how that attention is allocated has become central to understanding the modern music economy. Each platform operates a distinct discovery mechanism, and the artists who capture attention on one platform do not necessarily capture it on another.
 
 This project asks whether those cross-platform patterns are random or structural: whether the distribution of attention reveals consistent archetypes in how artists exist across the streaming landscape.
 
@@ -23,7 +23,7 @@ Two complementary approaches are used:
 
 The central question:
 
-> How is attention allocated within and across Spotify, TikTok, and YouTube — and what artist archetypes emerge from the structure of that distribution?
+> How is attention allocated within and across Spotify, TikTok, and YouTube, and what artist archetypes emerge from the structure of that distribution?
 
 ---
 
@@ -33,7 +33,7 @@ The central question:
 
 ![Lorenz Curves](images/lorenz_combined.png)
 
-Attention is highly concentrated within every platform. The Lorenz curves make this structure visual. At track level the platform divergence is clear — Spotify's curve bows least far from the equality line, followed by YouTube, then TikTok. At artist level the three curves are nearly indistinguishable.
+Attention is highly concentrated within every platform. The Lorenz curves make this structure visual. At track level, Spotify's curve bows least far from the equality line, followed by YouTube, then TikTok. At artist level the three curves are nearly indistinguishable.
 
 Gini coefficients at track level range from 0.53 (Spotify) to 0.78 (TikTok), and converge at the artist level across all three platforms (0.74–0.76), suggesting superstar concentration is a feature of the music economy rather than any single platform's algorithm.
 
@@ -61,7 +61,7 @@ Seven artist archetypes emerge from K-means clustering (k=7, selected by silhoue
 
 *Note: C4 (TikTok Viral) contains only 2 artists but is structurally distinct from C1 (TikTok Natives). These two artists collectively account for ~5.5% of total TikTok views in a pool of 1,534 artists, an extreme concentration driven by audio circulating as background or meme content rather than conventional music consumption.*
 
-Each cluster carries a distinct signature across platform dominance, engagement behaviour, and playlist reach — visible in the normalised heatmap above.
+Each cluster carries a distinct signature across platform dominance, engagement behaviour, and playlist reach visible in the normalised heatmap above.
 
 ---
 
@@ -112,4 +112,4 @@ Fields used span streams, views, likes, playlist counts and reach, TikTok posts,
 
 ---
 
-*The music will keep playing — the question is always who gets to be heard.*
+*The music will keep playing, the question is always who gets to be heard.*
